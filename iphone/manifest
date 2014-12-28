@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: Permissions
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: Permissions
+moduleid: bencoding.permissions
+guid: 01c854d7-8fc7-4f33-8aed-b0c9404d52ee
+platform: iphone
+minsdk: 3.5.0.v20141222
